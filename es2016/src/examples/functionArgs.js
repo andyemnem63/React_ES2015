@@ -1,9 +1,10 @@
 export function functionArgs () {
 
-  // function getEmAll(...args) {
-  //   console.log(args)
-  // }
-  // 
+  function getEmAll(...args) {
+    console.log(args)
+  }
+
+    getEmAll();
   // function setSomeDefaults(myString = "", aList = []) {
   //   console.log(myString, aList)
   // }

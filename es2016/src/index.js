@@ -8,6 +8,7 @@ import {
         // destructuring
         // spreadOperator
         // templateLiterals
+        // functionArgs
     } from './examples';
 
 ReactDOM.render(<App />, document.getElementById('root'));
